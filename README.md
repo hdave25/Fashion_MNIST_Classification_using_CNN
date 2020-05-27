@@ -1,8 +1,7 @@
-# Fashion MNIST Classification using Keras
+# Fashion MNIST Image Classification using CNN
+## -------------------------------------------------------------------------------------------------------
 Classification of Fashion MNIST Images using different CNN architectures
 
-# Fashion MNIST Image Classification using CNN
-## ----------------------------------------------------------------------------------------------------------------------------------
 **Fashion MNIST** is a dataset which consists of images of clothing. Each image is 28x28 grayscale image, with 10 different classes. The dataset contains **70000 images with 60000 for training and 10000 for testing.**
 The Fashion-MNIST dataset is proposed as a more challenging replacement dataset for the MNIST dataset.
 
